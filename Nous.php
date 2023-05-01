@@ -33,7 +33,7 @@
 			   </li>
 			  <li class="menu-Contact"><a href= "Contactezmoi !.html"><b><i>Contact</i></b></a>
 				  <ul class="submenu">
-				     <li><a href="Coordonnees.html">Vos coordonnées</a></li>						  						  
+				     <li><a href="Coordonnees.php">Vos coordonnées</a></li>						  						  
 				  </ul>
 			   </li> 
 			   <li class="menu-Nous"><a href= "Contactezmoi !.html"><b><i>Développement professionnel</i></b></a>
